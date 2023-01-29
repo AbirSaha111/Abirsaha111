@@ -5,9 +5,13 @@ Abirsaha111[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=ll%2bscmZr&id=6E279A11FBB0BFD3CAC912B61FD21D3D6D56CF87&thid=OIP.ll-scmZrOVNMKFD3clWYEAHaFj&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fa5%2f35%2f60%2fa53560c8088900e266880f779dacced7.gif&exph=600&expw=800&q=animated+coder+images&simid=608037627267455665&FORM=IRPRST&ck=0EF00A3F6BB9C8F18811603A31773CCF&selectedIndex=113&ajaxhist=0&ajaxserp=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abirsaha111&label=Profile%20views&color=0e75b6&style=flat" alt="Abirsaha111" /> </p>
+
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
+
 - 📫 How to reach me **abirsaha8777@gmail.com**
+
 - ⚡ Fun fact **I think I know everything.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abir-saha-172164235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir-saha-172164235" height="30" width="40" /></a>
